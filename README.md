@@ -1,4 +1,4 @@
-# MLOps Take‑Home Assessment (2 hours): NYC Short‑Term Rental Price Pipeline
+# MLOps Take‑Home Assessment (2 hours)
 
 This repo is a take‑home assessment for an **MLOps** role. You will implement and wire together a small **end‑to‑end training pipeline** (MLflow + W&B) that estimates short‑term rental prices in NYC from tabular data.
 

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/57c89589ef124786a1e5519cb5bfbac5/artifacts
+end_time: 1768330547967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57c89589ef124786a1e5519cb5bfbac5
+run_name: carefree-cod-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768330530362
+status: 3
+tags: []
+user_id: aliafzal

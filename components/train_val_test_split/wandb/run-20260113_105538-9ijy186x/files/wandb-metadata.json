@@ -1,0 +1,45 @@
+{
+  "os":  "macOS-26.1-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.11",
+  "startedAt":  "2026-01-13T18:55:38.460760Z",
+  "args":  [
+    "clean_sample.csv:latest",
+    "0.2",
+    "--random_seed",
+    "42",
+    "--stratify_by",
+    "neighbourhood_group"
+  ],
+  "program":  "/Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/components/train_val_test_split/run.py",
+  "codePath":  "components/train_val_test_split/run.py",
+  "codePathLocal":  "run.py",
+  "git":  {
+    "remote":  "https://github.com/devpassive/mlops_assessment4.git",
+    "commit":  "c02b79a061b4741c44c6445a7b5d257af1fc2028"
+  },
+  "email":  "aliafzal9323@gmail.com",
+  "root":  "/Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/components/train_val_test_split",
+  "host":  "MacBookPro",
+  "executable":  "/opt/miniconda3/envs/mlflow-9e90f5fe2c8b525335212978234fa75adebb4614/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "105328283648"
+    }
+  },
+  "memory":  {
+    "total":  "34359738368"
+  },
+  "apple":  {
+    "name":  "Apple M1 Max",
+    "ecpuCores":  2,
+    "pcpuCores":  8,
+    "gpuCores":  24,
+    "memoryGb":  32,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "34359738368"
+  },
+  "writerId":  "t986tqlhdvi0o41k4o5cfgscbl9he6de"
+}

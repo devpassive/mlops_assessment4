@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/ad1adb81a27b43e894c825a3dcb5fe77/artifacts
+end_time: 1768329151051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad1adb81a27b43e894c825a3dcb5fe77
+run_name: indecisive-seal-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768329139715
+status: 3
+tags: []
+user_id: aliafzal

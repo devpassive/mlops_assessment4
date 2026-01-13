@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/29d83770a4cd468bb47f38a317266338/artifacts
+end_time: 1768328833310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29d83770a4cd468bb47f38a317266338
+run_name: intelligent-frog-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768328818182
+status: 3
+tags: []
+user_id: aliafzal

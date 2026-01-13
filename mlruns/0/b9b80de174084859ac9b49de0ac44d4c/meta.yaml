@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/b9b80de174084859ac9b49de0ac44d4c/artifacts
+end_time: 1768329115530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9b80de174084859ac9b49de0ac44d4c
+run_name: casual-sow-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768329112496
+status: 3
+tags: []
+user_id: aliafzal

@@ -1,0 +1,55 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            ycn2u6ima9s2774c8rtwb2zsu3dpx5h0:
+                apple:
+                    ecpuCores: 2
+                    gpuCores: 24
+                    memoryGb: 32
+                    name: Apple M1 Max
+                    pcpuCores: 8
+                    ramTotalBytes: "34359738368"
+                    swapTotalBytes: "2147483648"
+                args:
+                    - sample1.csv
+                    - sample.csv
+                    - raw_data
+                    - Raw file as downloaded
+                codePath: components/get_data/run.py
+                codePathLocal: run.py
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "105229348864"
+                email: aliafzal9323@gmail.com
+                executable: /opt/miniconda3/envs/mlflow-ae62cd5582622c455f4e67580d01e92c8a453cce/bin/python
+                git:
+                    commit: f5f3081bd51bdd2ed67b914456df6e044bd16d34
+                    remote: https://github.com/Anshuman5/mlops_assessment4.git
+                host: MacBookPro
+                memory:
+                    total: "34359738368"
+                os: macOS-26.1-arm64-arm-64bit-Mach-O
+                program: /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/components/get_data/run.py
+                python: CPython 3.13.0
+                root: /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/components/get_data
+                startedAt: "2026-01-13T18:27:05.089284Z"
+                writerId: ycn2u6ima9s2774c8rtwb2zsu3dpx5h0
+        m: []
+        python_version: 3.13.0
+        t:
+            "4": 3.13.0
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": darwin-arm64
+artifact_description:
+    value: Raw file as downloaded
+artifact_name:
+    value: sample.csv
+artifact_type:
+    value: raw_data
+sample:
+    value: sample1.csv

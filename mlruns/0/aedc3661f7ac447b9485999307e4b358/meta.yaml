@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/aedc3661f7ac447b9485999307e4b358/artifacts
+end_time: 1768329151218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aedc3661f7ac447b9485999307e4b358
+run_name: likeable-panda-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768329136949
+status: 3
+tags: []
+user_id: aliafzal

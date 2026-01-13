@@ -1,0 +1,24 @@
+2026-01-13 10:27:05,094 INFO    MainThread:58188 [wandb_setup.py:_flush():81] Current SDK version is 0.21.3
+2026-01-13 10:27:05,094 INFO    MainThread:58188 [wandb_setup.py:_flush():81] Configure stats pid to 58188
+2026-01-13 10:27:05,094 INFO    MainThread:58188 [wandb_setup.py:_flush():81] Loading settings from /Users/aliafzal/.config/wandb/settings
+2026-01-13 10:27:05,094 INFO    MainThread:58188 [wandb_setup.py:_flush():81] Loading settings from /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/components/get_data/wandb/settings
+2026-01-13 10:27:05,094 INFO    MainThread:58188 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-01-13 10:27:05,094 INFO    MainThread:58188 [wandb_init.py:setup_run_log_directory():686] Logging user logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/components/get_data/wandb/run-20260113_102705-o5uofe2d/logs/debug.log
+2026-01-13 10:27:05,095 INFO    MainThread:58188 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/components/get_data/wandb/run-20260113_102705-o5uofe2d/logs/debug-internal.log
+2026-01-13 10:27:05,095 INFO    MainThread:58188 [wandb_init.py:init():813] calling init triggers
+2026-01-13 10:27:05,095 INFO    MainThread:58188 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-01-13 10:27:05,095 INFO    MainThread:58188 [wandb_init.py:init():854] starting backend
+2026-01-13 10:27:05,318 INFO    MainThread:58188 [wandb_init.py:init():857] sending inform_init request
+2026-01-13 10:27:05,336 INFO    MainThread:58188 [wandb_init.py:init():865] backend started and connected
+2026-01-13 10:27:05,338 INFO    MainThread:58188 [wandb_init.py:init():936] updated telemetry
+2026-01-13 10:27:05,358 INFO    MainThread:58188 [wandb_init.py:init():960] communicating run to backend with 90.0 second timeout
+2026-01-13 10:27:06,428 INFO    MainThread:58188 [wandb_init.py:init():1011] starting run threads in backend
+2026-01-13 10:27:06,490 INFO    MainThread:58188 [wandb_run.py:_console_start():2494] atexit reg
+2026-01-13 10:27:06,490 INFO    MainThread:58188 [wandb_run.py:_redirect():2342] redirect: wrap_raw
+2026-01-13 10:27:06,490 INFO    MainThread:58188 [wandb_run.py:_redirect():2411] Wrapping output streams.
+2026-01-13 10:27:06,490 INFO    MainThread:58188 [wandb_run.py:_redirect():2434] Redirects installed.
+2026-01-13 10:27:06,492 INFO    MainThread:58188 [wandb_init.py:init():1057] run started, returning control to user process
+2026-01-13 10:27:06,492 INFO    MainThread:58188 [wandb_run.py:_config_callback():1380] config_cb None None {'sample': 'sample1.csv', 'artifact_name': 'sample.csv', 'artifact_type': 'raw_data', 'artifact_description': 'Raw file as downloaded'}
+2026-01-13 10:27:12,043 INFO    wandb-AsyncioManager-main:58188 [service_client.py:_forward_responses():84] Reached EOF.
+2026-01-13 10:27:12,043 INFO    wandb-AsyncioManager-main:58188 [mailbox.py:close():137] Closing mailbox, abandoning 1 handles.

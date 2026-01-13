@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/1820eef88953486d8ea8bfdcee3abc7b/artifacts
+end_time: 1768328833137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1820eef88953486d8ea8bfdcee3abc7b
+run_name: resilient-lynx-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768328821185
+status: 3
+tags: []
+user_id: aliafzal

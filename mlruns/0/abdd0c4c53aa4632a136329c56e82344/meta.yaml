@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/abdd0c4c53aa4632a136329c56e82344/artifacts
+end_time: 1768330142786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abdd0c4c53aa4632a136329c56e82344
+run_name: capricious-colt-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768330133443
+status: 4
+tags: []
+user_id: aliafzal

@@ -61,5 +61,18 @@ def test_similar_neigh_distrib(data: pd.DataFrame, ref_data: pd.DataFrame, kl_th
 
 
 ########################################################
-# Implement here test_row_count and test_price_range   #
+def test_row_count(data: pd.DataFrame):
+    """ Test that dataset size is within expected bounds (15 ,000 < rows <1 ,000 ,000) """
+    assert 15000 < data.shape[0] < 1000000
+
+def test_price_range(data, min_price, max_price):
+    """ Test that all prices fall within the configured range """
+    price = data["price"]
+    assert price.between(min_price, max_price).all()
+
+def test_latitude_longitude_bounds(data):
+    """ Test that geographic coordinates are within NYC bounds """
+    assert data["longitude"].between(-74.25, -73.50).all()
+    assert data["latitude"].between(40.5, 41.2).all()
+
 ########################################################

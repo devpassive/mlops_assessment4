@@ -1,0 +1,29 @@
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_setup.py:_flush():81] Current SDK version is 0.21.3
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_setup.py:_flush():81] Configure stats pid to 60638
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_setup.py:_flush():81] Loading settings from /Users/aliafzal/.config/wandb/settings
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_setup.py:_flush():81] Loading settings from /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/settings
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_init.py:setup_run_log_directory():686] Logging user logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/run-20260113_104857-gfpgem1q/logs/debug.log
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/run-20260113_104857-gfpgem1q/logs/debug-internal.log
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_init.py:init():813] calling init triggers
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-01-13 10:48:57,495 INFO    MainThread:60638 [wandb_init.py:init():854] starting backend
+2026-01-13 10:48:57,728 INFO    MainThread:60638 [wandb_init.py:init():857] sending inform_init request
+2026-01-13 10:48:57,751 INFO    MainThread:60638 [wandb_init.py:init():865] backend started and connected
+2026-01-13 10:48:57,753 INFO    MainThread:60638 [wandb_init.py:init():936] updated telemetry
+2026-01-13 10:48:57,774 INFO    MainThread:60638 [wandb_init.py:init():960] communicating run to backend with 90.0 second timeout
+2026-01-13 10:48:58,687 INFO    MainThread:60638 [wandb_init.py:init():1011] starting run threads in backend
+2026-01-13 10:48:58,746 INFO    MainThread:60638 [wandb_run.py:_console_start():2494] atexit reg
+2026-01-13 10:48:58,746 INFO    MainThread:60638 [wandb_run.py:_redirect():2342] redirect: wrap_raw
+2026-01-13 10:48:58,746 INFO    MainThread:60638 [wandb_run.py:_redirect():2411] Wrapping output streams.
+2026-01-13 10:48:58,747 INFO    MainThread:60638 [wandb_run.py:_redirect():2434] Redirects installed.
+2026-01-13 10:48:58,748 INFO    MainThread:60638 [wandb_init.py:init():1057] run started, returning control to user process
+2026-01-13 10:49:00,147 INFO    MainThread:60638 [wandb_init.py:set_run_id():385] [no run ID] loaded run ID from /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/wandb-resume.json
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:setup_run_log_directory():686] Logging user logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/run-20260113_104900-gfpgem1q/logs/debug.log
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/run-20260113_104900-gfpgem1q/logs/debug-internal.log
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:init():813] calling init triggers
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-01-13 10:49:01,265 INFO    wandb-AsyncioManager-main:60638 [service_client.py:_forward_responses():84] Reached EOF.
+2026-01-13 10:49:01,265 INFO    wandb-AsyncioManager-main:60638 [mailbox.py:close():137] Closing mailbox, abandoning 1 handles.

@@ -1,0 +1,49 @@
+{
+  "os":  "macOS-26.1-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.11",
+  "startedAt":  "2026-01-13T18:48:57.490432Z",
+  "args":  [
+    ".",
+    "-vv",
+    "--csv",
+    "clean_sample.csv:latest",
+    "--ref",
+    "clean_sample.csv:reference",
+    "--kl_threshold",
+    "0.2",
+    "--min_price",
+    "10",
+    "--max_price",
+    "350"
+  ],
+  "program":  "/opt/miniconda3/envs/mlflow-22606ae752c24aececd6c02243d44d421c467002/bin/pytest",
+  "git":  {
+    "remote":  "https://github.com/devpassive/mlops_assessment4.git",
+    "commit":  "e05c1b1a91868ce475bba8563fb1ea37c6183a28"
+  },
+  "email":  "aliafzal9323@gmail.com",
+  "root":  "/Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check",
+  "host":  "MacBookPro",
+  "executable":  "/opt/miniconda3/envs/mlflow-22606ae752c24aececd6c02243d44d421c467002/bin/python3.13",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "105315315712"
+    }
+  },
+  "memory":  {
+    "total":  "34359738368"
+  },
+  "apple":  {
+    "name":  "Apple M1 Max",
+    "ecpuCores":  2,
+    "pcpuCores":  8,
+    "gpuCores":  24,
+    "memoryGb":  32,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "34359738368"
+  },
+  "writerId":  "5pzad5acfvv6zxbxh15pf3ls14ysian1"
+}

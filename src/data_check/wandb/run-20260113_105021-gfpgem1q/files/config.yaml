@@ -1,0 +1,57 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            w1f3n9npq0qz1w5p8u1i02o6f6poktd4:
+                apple:
+                    ecpuCores: 2
+                    gpuCores: 24
+                    memoryGb: 32
+                    name: Apple M1 Max
+                    pcpuCores: 8
+                    ramTotalBytes: "34359738368"
+                    swapTotalBytes: "2147483648"
+                args:
+                    - .
+                    - -vv
+                    - --csv
+                    - clean_sample.csv:latest
+                    - --ref
+                    - clean_sample.csv:reference
+                    - --kl_threshold
+                    - "0.2"
+                    - --min_price
+                    - "10"
+                    - --max_price
+                    - "350"
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "105326673920"
+                email: aliafzal9323@gmail.com
+                executable: /opt/miniconda3/envs/mlflow-22606ae752c24aececd6c02243d44d421c467002/bin/python3.13
+                git:
+                    commit: e05c1b1a91868ce475bba8563fb1ea37c6183a28
+                    remote: https://github.com/devpassive/mlops_assessment4.git
+                host: MacBookPro
+                memory:
+                    total: "34359738368"
+                os: macOS-26.1-arm64-arm-64bit-Mach-O
+                program: /opt/miniconda3/envs/mlflow-22606ae752c24aececd6c02243d44d421c467002/bin/pytest
+                python: CPython 3.13.11
+                root: /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check
+                startedAt: "2026-01-13T18:50:21.521015Z"
+                writerId: w1f3n9npq0qz1w5p8u1i02o6f6poktd4
+        m: []
+        python_version: 3.13.11
+        t:
+            "3":
+                - 5
+                - 24
+                - 62
+            "4": 3.13.11
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": darwin-arm64

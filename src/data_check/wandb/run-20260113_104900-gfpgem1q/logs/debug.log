@@ -1,0 +1,7 @@
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:setup_run_log_directory():686] Logging user logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/run-20260113_104900-gfpgem1q/logs/debug.log
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/data_check/wandb/run-20260113_104900-gfpgem1q/logs/debug-internal.log
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:init():813] calling init triggers
+2026-01-13 10:49:00,149 INFO    MainThread:60638 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-01-13 10:49:01,265 INFO    wandb-AsyncioManager-main:60638 [service_client.py:_forward_responses():84] Reached EOF.
+2026-01-13 10:49:01,265 INFO    wandb-AsyncioManager-main:60638 [mailbox.py:close():137] Closing mailbox, abandoning 1 handles.

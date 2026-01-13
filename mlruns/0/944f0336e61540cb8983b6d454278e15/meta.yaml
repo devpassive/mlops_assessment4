@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/944f0336e61540cb8983b6d454278e15/artifacts
+end_time: 1768330227086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 944f0336e61540cb8983b6d454278e15
+run_name: gentle-loon-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768330215913
+status: 3
+tags: []
+user_id: aliafzal

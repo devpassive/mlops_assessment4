@@ -1,0 +1,95 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            tq5rlpvbwhkoifcnt3ctqipnij59go4s:
+                apple:
+                    ecpuCores: 2
+                    gpuCores: 24
+                    memoryGb: 32
+                    name: Apple M1 Max
+                    pcpuCores: 8
+                    ramTotalBytes: "34359738368"
+                    swapTotalBytes: "2147483648"
+                args:
+                    - --trainval_artifact
+                    - trainval_data.csv:latest
+                    - --val_size
+                    - "0.2"
+                    - --random_seed
+                    - "42"
+                    - --stratify_by
+                    - neighbourhood_group
+                    - --rf_config
+                    - /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/rf_config.json
+                    - --max_tfidf_features
+                    - "5"
+                    - --output_artifact
+                    - random_forest_export
+                codePath: src/train_random_forest/run.py
+                codePathLocal: run.py
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "105315885056"
+                email: aliafzal9323@gmail.com
+                executable: /opt/miniconda3/envs/mlflow-114dfdd7a6f8d813e5c5a71f8972961923f526b5/bin/python
+                git:
+                    commit: 793ca4d41a92c2ccff6d42a3e63fd57159ce979e
+                    remote: https://github.com/devpassive/mlops_assessment4.git
+                host: MacBookPro
+                memory:
+                    total: "34359738368"
+                os: macOS-26.1-arm64-arm-64bit-Mach-O
+                program: /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/train_random_forest/run.py
+                python: CPython 3.13.11
+                root: /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/train_random_forest
+                startedAt: "2026-01-13T18:58:45.085145Z"
+                writerId: tq5rlpvbwhkoifcnt3ctqipnij59go4s
+        m: []
+        python_version: 3.13.11
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 62
+            "4": 3.13.11
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": darwin-arm64
+criterion:
+    value: squared_error
+max_depth:
+    value: 15
+max_features:
+    value: 0.5
+max_tfidf_features:
+    value: 5
+min_samples_leaf:
+    value: 3
+min_samples_split:
+    value: 4
+n_estimators:
+    value: 100
+n_jobs:
+    value: -1
+oob_score:
+    value: true
+output_artifact:
+    value: random_forest_export
+random_seed:
+    value: 42
+rf_config:
+    value: /Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/rf_config.json
+stratify_by:
+    value: neighbourhood_group
+trainval_artifact:
+    value: trainval_data.csv:latest
+val_size:
+    value: 0.2

@@ -1,0 +1,53 @@
+{
+  "os":  "macOS-26.1-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.11",
+  "startedAt":  "2026-01-13T18:58:45.085145Z",
+  "args":  [
+    "--trainval_artifact",
+    "trainval_data.csv:latest",
+    "--val_size",
+    "0.2",
+    "--random_seed",
+    "42",
+    "--stratify_by",
+    "neighbourhood_group",
+    "--rf_config",
+    "/Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/rf_config.json",
+    "--max_tfidf_features",
+    "5",
+    "--output_artifact",
+    "random_forest_export"
+  ],
+  "program":  "/Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/train_random_forest/run.py",
+  "codePath":  "src/train_random_forest/run.py",
+  "codePathLocal":  "run.py",
+  "git":  {
+    "remote":  "https://github.com/devpassive/mlops_assessment4.git",
+    "commit":  "793ca4d41a92c2ccff6d42a3e63fd57159ce979e"
+  },
+  "email":  "aliafzal9323@gmail.com",
+  "root":  "/Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/src/train_random_forest",
+  "host":  "MacBookPro",
+  "executable":  "/opt/miniconda3/envs/mlflow-114dfdd7a6f8d813e5c5a71f8972961923f526b5/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "105315885056"
+    }
+  },
+  "memory":  {
+    "total":  "34359738368"
+  },
+  "apple":  {
+    "name":  "Apple M1 Max",
+    "ecpuCores":  2,
+    "pcpuCores":  8,
+    "gpuCores":  24,
+    "memoryGb":  32,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "34359738368"
+  },
+  "writerId":  "tq5rlpvbwhkoifcnt3ctqipnij59go4s"
+}

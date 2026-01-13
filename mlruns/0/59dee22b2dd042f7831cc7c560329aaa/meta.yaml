@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/59dee22b2dd042f7831cc7c560329aaa/artifacts
+end_time: 1768330740197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59dee22b2dd042f7831cc7c560329aaa
+run_name: grandiose-kite-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768330720281
+status: 3
+tags: []
+user_id: aliafzal

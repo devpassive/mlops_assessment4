@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aliafzal/Dev/mlops_assesment_new/mlops_assessment4/mlruns/0/91e2c6ec01ed48df9cce622e6404dc8c/artifacts
+end_time: 1768330740362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e2c6ec01ed48df9cce622e6404dc8c
+run_name: shivering-shrimp-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768330717644
+status: 3
+tags: []
+user_id: aliafzal

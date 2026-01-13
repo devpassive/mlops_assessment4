@@ -1,0 +1,13 @@
+{"time":"2026-01-13T10:58:45.35404-08:00","level":"INFO","msg":"stream: starting","core version":"0.21.3"}
+{"time":"2026-01-13T10:58:45.589362-08:00","level":"INFO","msg":"stream: created new stream","id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:45.589562-08:00","level":"INFO","msg":"stream: started","id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:45.58967-08:00","level":"INFO","msg":"writer: started","stream_id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:45.589675-08:00","level":"INFO","msg":"sender: started","stream_id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:45.589682-08:00","level":"INFO","msg":"handler: started","stream_id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:46.9983-08:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2026-01-13T10:58:51.020713-08:00","level":"INFO","msg":"stream: closing","id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:59.452127-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-13T10:58:59.920296-08:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): context canceled"}
+{"time":"2026-01-13T10:58:59.920329-08:00","level":"INFO","msg":"handler: closed","stream_id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:59.921228-08:00","level":"INFO","msg":"sender: closed","stream_id":"hq3djwbf"}
+{"time":"2026-01-13T10:58:59.921263-08:00","level":"INFO","msg":"stream: closed","id":"hq3djwbf"}
